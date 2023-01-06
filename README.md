@@ -1,2 +1,2 @@
 # EducateHut
-A code for an alaram and shutdown system for computers 
+A code for an alarm and shutdown system for computers 
